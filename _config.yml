@@ -22,7 +22,7 @@ subtitle                 : "Proto Type" # site tagline that appears below site t
 name                     : "caramelsyrup"
 description              : "Theory for developing"
 url                      : "https://caramelsyrup.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/Blog" # the subpath of your site, e.g.
+baseurl                  : # the subpath of your site, e.g.
 repository               : "caramelsyrup/caramelsyrup.github.com" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/main1.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
