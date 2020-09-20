@@ -1,5 +1,7 @@
 source "https://rubygems.org"
 
+
+gem 'jekyll-admin', group: :jekyll_plugins
 gem "github-pages", group: :jekyll_plugins
 
 gem "tzinfo-data"
@@ -13,4 +15,5 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jemoji"
   gem "jekyll-algolia"
+  gem "jekyll-include-cache"
 end
